@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9378F200-2099-4922-983C-478FB2BBADA7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>选课管理系统</RootNamespace>
+    <AssemblyName>选课管理系统</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>E:\软件\C#\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="admin_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_home.Designer.cs">
+      <DependentUpon>admin_home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_login.Designer.cs">
+      <DependentUpon>admin_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dao\coursedao.cs" />
+    <Compile Include="dao\resultdao.cs" />
+    <Compile Include="dao\studentDao.cs" />
+    <Compile Include="dao\teacherDao.cs" />
+    <Compile Include="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="home.Designer.cs">
+      <DependentUpon>home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\Course.cs" />
+    <Compile Include="model\Result.cs" />
+    <Compile Include="model\Student.cs" />
+    <Compile Include="model\Teacher.cs" />
+    <Compile Include="student_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_login.Designer.cs">
+      <DependentUpon>student_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_add.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_add.Designer.cs">
+      <DependentUpon>teacher_add.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_home.Designer.cs">
+      <DependentUpon>teacher_home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_login.Designer.cs">
+      <DependentUpon>teacher_login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher_update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher_update.Designer.cs">
+      <DependentUpon>teacher_update.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test.Designer.cs">
+      <DependentUpon>test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="util\Util.cs" />
+    <Compile Include="welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="welcome.Designer.cs">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="admin_home.resx">
+      <DependentUpon>admin_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_login.resx">
+      <DependentUpon>admin_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="home.resx">
+      <DependentUpon>home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="student_login.resx">
+      <DependentUpon>student_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher_home.resx">
+      <DependentUpon>teacher_home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher_login.resx">
+      <DependentUpon>teacher_login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher_update.resx">
+      <DependentUpon>teacher_update.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test.resx">
+      <DependentUpon>test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="welcome.resx">
+      <DependentUpon>welcome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\welcome1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\y3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\蓝色2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\蓝色2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\渐变.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\渐变2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\更新.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\关闭.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\关闭1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\g1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,402 @@
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+F:\C#.net\源代码\10\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+F:\C#.net\源代码\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\bin\Release\MySql.Data.dll
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+E:\net选课系统\新建文件夹 (2)\新建文件夹\10 - 副本\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+C:\Users\ASUS\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+C:\Users\a'su's\Desktop\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+E:\net选课系统\新建文件夹 (3)\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\MySql.Data.dll
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test2.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test3.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test4.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.test5.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.text3.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+E:\851041806\FileRecv\选课管理系统（4）\选课管理系统（4）\选课管理系统 (2)\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+C:\Users\lenovo\Desktop\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+F:\C#.net\源代码\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+E:\851041806\FileRecv\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
+C:\Users\a'su's\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\IrisSkin2.dll
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe.config
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.exe
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.pdb
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.exe
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\bin\Release\选课管理系统.pdb
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_home.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.admin_login.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.CourseSelection.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.course_update.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.home.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.judge.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.select_teacher.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.shenhe.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_information.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_login.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.student_update.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.TeacherSelection.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_home.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_information.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_login.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.teacher_update.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_password_teacher.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_student.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.update_teacher.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.welcome.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.Properties.Resources.resources
+C:\Users\lenovo\Desktop\3\3\选课管理系统\选课管理系统\obj\Release\选课管理系统.csproj.GenerateResource.Cache
